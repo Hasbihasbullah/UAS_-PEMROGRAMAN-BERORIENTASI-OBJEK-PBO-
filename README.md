@@ -1,6 +1,11 @@
 # UAS_-PEMROGRAMAN-BERORIENTASI-OBJEK-PBO-
 PBO_ semester 3
 
+# Nama       : HASBI HASBULLAH
+# Kelas      : TI.21.C1
+# NIM        : 312110094
+# UNIVERSITAS PELITA BANGSA
+
 UAS-PEMOGRAMAN-ORIENTASI-OBJEK
 
 
@@ -21,7 +26,3 @@ Program ini juga mendemonstrasikan polimorfisme, di mana berbagai jenis bentuk d
 
 link youtube : https://youtu.be/XiWFNp4Ju64
 
-Nama       : HASBI HASBULLAH
-Kelas      : TI.21.C1
-NIM        : 312110094
-UNIVERSITAS PELITA BANGSA
