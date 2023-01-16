@@ -9,6 +9,12 @@ PBO_ semester 3
 UAS-PEMOGRAMAN-ORIENTASI-OBJEK
 
 
+
+![class-diagram-sekolah](https://user-images.githubusercontent.com/92858927/212736894-1c670954-841a-4991-ad9d-8230da9ffe14.png)
+
+
+
+
 STEP BY STEP  :
 
 
